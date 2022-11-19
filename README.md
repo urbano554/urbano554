@@ -1,4 +1,4 @@
-### Hi there 👋, i am Luis Urbano.
+### Hi there 👋, I am Luis Urbano.
 
 Frontend Developer.
 
