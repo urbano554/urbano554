@@ -10,7 +10,7 @@ Soy de Venezuela, me apasiona la tecnología y la programación. Soy desarrollad
 
 ### Sobre mí
 ---
-- 🔭 Estoy en busca de trabajo en este momento.
+
 - Mis deportes favoritos son el fútbol y ajedrez.
 - Tengo 4 gatos en mi casa.
 
